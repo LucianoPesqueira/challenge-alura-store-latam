@@ -5,8 +5,10 @@
 ---
 
 ## Tecnologias utilizadas
-![Python](https://img.shields.io/badge/python-3.14-blue)
-![Made with](https://img.shields.io/badge/Hecho%20con%20Pandas%20|%20Matplotlib%20|%20Seaborn)
+![Python](https://img.shields.io/badge/python-3.14.0-blue?logo=python)
+![Made with](https://img.shields.io/badge/Hecho%20con%20Pandas%20|%20Matplotlib%20|%20Seaborn-blueviolet)
+
+---
 
 ## Tabla de contenidos
 - [Sobre el desafio](#-sobre-el-desafio)
