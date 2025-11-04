@@ -11,11 +11,11 @@
 ---
 
 ## Tabla de contenidos
-- [Sobre el desafio](#-sobre-el-desafio)
-- [Objetivos del análisis](#-objetivos-del-análisis)
-- [Análisis y visualizaciones](#-análisis-y-visualizaciones)
-- [Conclusión](#-conclusión)
-- [Autor](#-autor)
+- [📖 Sobre el desafio](#-sobre-el-desafio)
+- [🎯 Objetivos del análisis](#-objetivos-del-análisis)
+- [📊 Análisis y visualizaciones](#-análisis-y-visualizaciones)
+- [🧠 Conclusión](#-conclusión)
+- [💬 Autor](#-autor)
 
 ---
 
